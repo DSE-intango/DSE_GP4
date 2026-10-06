@@ -1,0 +1,14 @@
+{
+  "name": "intango-dse-git-starter",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "DSE JavaScript correction and Git teaching project",
+  "scripts": {
+    "start": "node src/demo.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
